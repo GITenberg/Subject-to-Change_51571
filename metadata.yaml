@@ -5,6 +5,9 @@ contributor:
     agent_name: Harman
     gutenberg_agent_id: '49072'
     url: http://www.gutenberg.org/2009/agents/49072
+covers:
+- cover_type: archival
+  image_path: 51571-h/images/cover.jpg
 creator:
   author:
     agent_name: Goulart, Ron
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46474
     wikipedia: https://en.wikipedia.org/wiki/Ron_Goulart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51571#Subject-to-Change
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-26'
 gutenberg_type: Text
